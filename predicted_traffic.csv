@@ -1,0 +1,2 @@
+timestamp,latitude,longitude,predicted_speed,current_speed,free_flow_speed,traffic_index
+2025-03-24 13:43:22,20.859764,77.736801,36.0,36.0,36.0,1.0
